@@ -6,7 +6,7 @@ import random
 
 pygame.init()
 
-sound_folder = "D:/neoc/sound"
+sound_folder = "h:/example/example/sound"
 
 pygame.mixer.init()
 pygame.mixer.set_num_channels(10)
